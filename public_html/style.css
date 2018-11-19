@@ -1,0 +1,231 @@
+@import url(http://fonts.googleapis.com/css?family=Rajdhani);
+@import url(http://fonts.googleapis.com/css?family=Nosifer);
+
+body {
+  width: 1020px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #fcfcfc;
+  font-family: 'Rajdhani';
+  font-size: large;
+  color: #404040;
+}
+
+h1 {
+  font-family: 'Rajdhani';
+  font-size: 55px;
+  text-align: center;
+  Color:  #404040;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+a {
+  color: white;
+  background-color:#404040;
+}
+
+h5 {
+  background-color:#404040;
+  color: #fcfcfc;
+}
+
+div.detail {
+
+  font-size: 25px;
+}
+
+div.content {
+  background-color: #fcfcfc;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+figure {
+  text-align: center;
+}
+
+a:hover { 
+  color: #FF6347;
+}
+
+p{
+  text-align: center;
+  display: inline;
+  text-align: center;
+}
+
+div.desc {
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 50px;
+}
+
+div.footer {
+  background-color:#404040;
+  padding-right: 30px;
+  padding-top: 10px;
+}
+
+div.info {
+  background-color: #404040;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+div.quote {
+  font-style: italic;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+  font-weight: bolder;
+}
+
+h5 {
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Codystar';
+}
+
+.info {
+  font-size: small;
+  text-align: right;
+  padding-bottom: 8px;
+}
+
+.footer {
+  font-size: small;
+  text-align: right;
+}
+
+.form {
+  float: center;
+  margin: 20px 10px;
+  display: none;
+}
+
+textarea {
+  font-family: 'Rajdhani';
+}
+
+.venn {
+  text-align: center;
+}
+
+.venntooltip {
+  position: absolute;
+  text-align: center;
+  width: 128px;
+  height: 22px;
+  /*background: #333;*/
+  color: #000000;
+  border: 0px;
+  border-radius: 8px;
+  opacity: 0;
+}
+
+svg {
+  font-family: 'Oswald';
+  font-weight: 300;
+  font-size: 0px;
+  color: #0000;
+}
+
+.footer {
+  clear: both;
+} 
+    
+    .ticks {
+      font-size: 10px;
+    }
+
+    .track,
+    .track-inset,
+    .track-overlay {
+      stroke-linecap: round;
+    }
+
+    .track {
+      stroke: #000;
+      stroke-opacity: 0.3;
+      stroke-width: 10px;
+    }
+
+    .track-inset {
+      stroke: #dcdcdc;
+      stroke-width: 8px;
+    }
+
+    .track-overlay {
+      pointer-events: stroke;
+      stroke-width: 50px;
+      stroke: transparent;
+      cursor: crosshair;
+    }
+
+    .handle {
+      fill: #fff;
+      stroke: #000;
+      stroke-opacity: 0.5;
+      stroke-width: 1.25px;
+    }
+
+    .quant1 {
+      font-size: 50px;
+      color: black;
+      font-weight: bold;
+      display:inline;
+    }
+
+  .count {
+    font-weight: bold;
+    display:inline;
+  }
+    .quant2 {
+      font-size: 50px;
+      color: #FF7F0E; 
+      font-weight: bold;
+      display:inline;
+    }
+    .quant3 {
+      font-size: 50px;
+      color: #2CA02C; 
+      font-weight: bold;
+      display:inline;
+    }
+    .quant4 {
+      font-size: 50px;
+      color: #D62728;      
+      font-weight: bold;
+      display:inline;
+    }
+
+    div.background{
+      background-image:url("https://quiverquilt.files.wordpress.com/2018/09/screen-shot-2018-10-23-at-9-41-16-pm.png");
+      opacity:.3;
+      position:absolute;
+      top:0;
+      bottom:0;
+      right:0;
+      left:0;
+      background-size: cover;
+      z-index:-1;
+      background-size: 1920px 1080px;
+      background-repeat: no-repeat;
+  }
+
+  li {
+    float: left;
+}
+
+.how {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
