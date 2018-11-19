@@ -218,6 +218,7 @@ svg {
       z-index:-1;
       background-size: 1920px 1080px;
       background-repeat: no-repeat;
+      background-color: #fcfcfc;
   }
 
   li {
