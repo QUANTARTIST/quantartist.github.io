@@ -224,6 +224,7 @@ svg {
 
   li {
     float: left;
+    background-color: #fcfcfc;
 }
 
 .how {
@@ -232,7 +233,7 @@ svg {
   margin-right: auto;
 }
 
-.ul {
+ul {
   background-color: #fcfcfc;
 }
 
