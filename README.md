@@ -1,5 +1,5 @@
 
-# The Price of the Right to Keep and Bear Arms in the United States of America
+## The Price of the Right to Keep and Bear Arms in the United States of America
 
 #### View visualization here - https://quantartist.github.io/public_html/index_0618.html
 #### Note, please use Chrome and disable any security or pop-up blockers to render the D3 portion of the visual.
