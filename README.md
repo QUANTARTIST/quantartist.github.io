@@ -1,7 +1,7 @@
 
 ## The Price of the Right to Keep and Bear Arms in the United States of America
 
-#### View visualization here - https://quantartist.github.io/public_html/index_0618.html
+#### View visualization here - https://quantartist.github.io/public_html/index.html
 
 This visualization aims to highlight, specifically, the unique and fragile confluence of factors that underscore mass shooting incidence in the USA. The specific focus of this work is to highlight the intersection between prior signs of mental health issues, use of legally obtained weapons and use of assault weapons by perpetrators in mass shootings that have taken place within this time period. Arguably, as the venn diagrams reveal, all three factors are powerful undercurrents that work together to successfully sustain the unrivaled trajectory of mass shooting incidence in the USA. 
 
